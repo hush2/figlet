@@ -79,7 +79,7 @@ foreach (glob('ttf/*.ttf') as $file) {
 </form>
 <br/>
 <pre class='text'>
-    <?php echo render($font, $font2, $text) ?>
+<?php echo render($font, $font2, $text) ?>
 </pre>
 
 <img src="/image.php">
