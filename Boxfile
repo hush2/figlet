@@ -1,0 +1,7 @@
+web1:
+  name: figlet    
+  document_root: /  
+  php_version: 5.3.8   
+  php_extensions:    
+    - imagick
+    - zip
